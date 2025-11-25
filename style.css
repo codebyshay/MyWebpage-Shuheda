@@ -1,0 +1,29 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(to bottom, darkorchid, #6b238f);
+  color: white;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
+
+h2 {
+  color: black;
+  font-size: 50px;
+}
+
+p {
+  font-size: 24px;
+  color: black;
+}
+
+h3 {
+  color: black;
+  font-size: 50px;
+}
+
+ul {
+  color: black;
+  font-size: 50px;
+}
